@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>My Page!</title>
+        </head>
+        <body>
+            <h1 id="heading">Hello There! </h1>
+            <script>
+                alert(document.title); //displays "My Page!"
+                alert(document.lastModified);
+                let heading = "New Heading";
+                document.getElementById("heading").innerText = heading;
+            </script>
+        </body>
+</html>
