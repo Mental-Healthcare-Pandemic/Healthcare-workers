@@ -11,5 +11,7 @@
                 let heading = "New Heading";
                 document.getElementById("heading").innerText = heading;
             </script>
+            <script type="text/javascript"
+	            src="Mental Health Line Graph.twb"></script>
         </body>
 </html>
